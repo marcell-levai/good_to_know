@@ -1,3 +1,8 @@
+## Good To Know
+
+In this learning project I created an application to manage a knowledge sharing platform for different users.
+Every user is able to register with their google account and create useful posts for the others.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
